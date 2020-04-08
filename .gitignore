@@ -1,0 +1,9 @@
+examples/
+carla/
+__pycache__/
+util/
+.vscode/
+
+# vid files
+outpy1280x720.avi
+outpy1280x960.avi
